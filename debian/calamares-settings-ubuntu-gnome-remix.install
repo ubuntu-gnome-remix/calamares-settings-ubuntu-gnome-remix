@@ -1,0 +1,5 @@
+ubuntu-gnome-remix/settings.conf etc/calamares/
+ubuntu-gnome-remix/modules/ etc/calamares/
+ubuntu-gnome-remix/calamares-launch-normal usr/bin/
+ubuntu-gnome-remix/calamares-logs-helper usr/bin/
+ubuntu-gnome-remix/ubuntu-gnome-remix-calamares.desktop usr/share/applications/
