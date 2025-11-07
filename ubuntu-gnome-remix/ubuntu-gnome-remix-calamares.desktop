@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+_Name=Install Ubuntu GNOME Remix
+_GenericName=Install Ubuntu GNOME Remix
+Exec=sudo /usr/bin/calamares-launch-normal
+_Comment=Calamares — System Installer
+Icon=calamares
+Terminal=false
+StartupNotify=true
+Categories=Qt;System;
+Keywords=installer;calamares;system;
+
