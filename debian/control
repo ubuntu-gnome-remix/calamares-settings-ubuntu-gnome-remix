@@ -1,0 +1,18 @@
+Source: calamares-settings-ubuntu-gnome-remix
+Maintainer: Dmitrii Safronov <zimniy@cyberbrain.cc>
+Build-Depends: debhelper-compat (= 12)
+Section: metapackages
+Priority: optional
+Standards-Version: 4.5.0
+
+Package: calamares-settings-ubuntu-gnome-remix
+Architecture: all
+# Section: metapackages
+# Priority: optional
+# Pre-Depends: <comma-separated list of packages>
+Depends: calamares
+# Recommends: <comma-separated list of packages>
+# Suggests: <comma-separated list of packages>
+# Provides: <comma-separated list of packages>
+# Replaces: <comma-separated list of packages>
+Description: Ubuntu GNOME remix Calamares settings
