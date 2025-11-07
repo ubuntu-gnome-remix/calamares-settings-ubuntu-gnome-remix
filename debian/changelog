@@ -1,8 +1,14 @@
+calamares-settings-ubuntu-gnome-remix (0.2.1) unstable; urgency=low
+
+  * Remove custom installation script from debian/rules
+
+ -- Dmitrii Safronov <zimniy@cyberbrain.cc>  Fri, 07 Nov 2025 15:16:47 +0000
+
 calamares-settings-ubuntu-gnome-remix (0.2.0) unstable; urgency=low
 
   * Add initial Calamares settings for Ubuntu GNOME Remix
 
- -- Dmitrii Safronov <zimniy@cyberbrain.cc>  Fri, 07 Nov 2025 14:56:24 +0000
+ -- Dmitrii Safronov <zimniy@cyberbrain.cc>  Fri, 07 Nov 2025 14:56:26 +0000
 
 calamares-settings-ubuntu-gnome-remix (0.1.0) unstable; urgency=low
 
