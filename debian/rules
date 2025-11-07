@@ -2,12 +2,3 @@
 
 %:
 	dh $@
-
-override_dh_auto_install:
-	dh_auto_install
-	if [ -f debian/calamares-settings-ubuntu-gnome-remix/usr/bin/calamares-launch-normal ]; then \
-		chmod +x debian/calamares-settings-ubuntu-gnome-remix/usr/bin/calamares-launch-normal; \
-	fi
-	if [ -f debian/calamares-settings-ubuntu-gnome-remix/usr/bin/calamares-logs-helper ]; then \
-		chmod +x debian/calamares-settings-ubuntu-gnome-remix/usr/bin/calamares-logs-helper; \
-	fi
